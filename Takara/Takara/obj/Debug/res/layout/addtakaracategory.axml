@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+ <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+      android:layout_width="fill_parent"
+      android:layout_height="fill_parent"
+      android:orientation="vertical">
+
+   <LinearLayout
+     android:layout_width="fill_parent"
+     android:layout_height="wrap_content"
+     android:gravity="center_vertical"
+     android:orientation="horizontal">
+     
+     <ImageView
+       android:id="@+id/icon"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_alignParentRight="true"
+       android:src="@drawable/treasurechestopen" />
+   
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="6dip"
+        android:paddingRight="6dip"
+        android:paddingTop="6dip"
+        android:textSize="30sp"
+        android:text="@string/NewCat" />
+
+   </LinearLayout>
+
+   <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="fill_parent"
+     android:layout_height="wrap_content"
+     android:orientation="vertical">
+
+     <TextView
+               android:layout_width="fill_parent"
+               android:layout_height="wrap_content"
+               android:paddingLeft="6dip"
+               android:paddingRight="6dip"
+               android:paddingTop="6dip"
+               android:text="@string/TVCatName" />
+     
+     <EditText 
+                android:id="@+id/tCatName"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/hint_catName"
+                android:maxLength="25"
+                android:inputType="textShortMessage|textAutoCorrect"
+                android:background="@android:drawable/editbox_background" />
+
+     <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="6dip"
+                android:paddingRight="6dip"
+                android:paddingTop="6dip"
+                android:text="@string/TVCatDesc" />
+   
+     <EditText 
+                android:id="@+id/tCatDesc"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/hint_catDesc"
+                android:inputType="textShortMessage|textAutoCorrect|textCapSentences|textMultiLine"
+                android:maxLines="2"
+                android:maxLength="50"
+                android:background="@android:drawable/editbox_background" />
+   </LinearLayout>
+   
+   <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/bottom_bar"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+      <Button
+          android:id="@+id/BtnOK"
+          android:layout_width="0dip"
+          android:layout_weight="1.0"
+          android:layout_height="wrap_content"
+          android:text="@string/OKButton" />
+
+      <Button
+          android:id="@+id/BtnCancel"
+          android:layout_width="0dip"
+          android:layout_weight="1.0"
+          android:layout_height="wrap_content"
+          android:text="@string/CancelButton" />
+     
+    </LinearLayout>
+  </LinearLayout>

@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnePassport.Takara.Android", "Takara\OnePassport.Takara.Android.csproj", "{B5F2DE82-E597-4289-A27F-E90E35334656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnePassport.Takara", "OnePassport.Takara\OnePassport.Takara.csproj", "{9E121398-C807-4B42-9E1B-27EEB6BB79EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5F2DE82-E597-4289-A27F-E90E35334656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F2DE82-E597-4289-A27F-E90E35334656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5F2DE82-E597-4289-A27F-E90E35334656}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B5F2DE82-E597-4289-A27F-E90E35334656}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B5F2DE82-E597-4289-A27F-E90E35334656}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B5F2DE82-E597-4289-A27F-E90E35334656}.Debug|Mixed Platforms.Deploy.0 = Debug|Any CPU
+		{B5F2DE82-E597-4289-A27F-E90E35334656}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B5F2DE82-E597-4289-A27F-E90E35334656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5F2DE82-E597-4289-A27F-E90E35334656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5F2DE82-E597-4289-A27F-E90E35334656}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B5F2DE82-E597-4289-A27F-E90E35334656}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B5F2DE82-E597-4289-A27F-E90E35334656}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B5F2DE82-E597-4289-A27F-E90E35334656}.Release|Mixed Platforms.Deploy.0 = Release|Any CPU
+		{B5F2DE82-E597-4289-A27F-E90E35334656}.Release|x86.ActiveCfg = Release|Any CPU
+		{9E121398-C807-4B42-9E1B-27EEB6BB79EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E121398-C807-4B42-9E1B-27EEB6BB79EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E121398-C807-4B42-9E1B-27EEB6BB79EC}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{9E121398-C807-4B42-9E1B-27EEB6BB79EC}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{9E121398-C807-4B42-9E1B-27EEB6BB79EC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9E121398-C807-4B42-9E1B-27EEB6BB79EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E121398-C807-4B42-9E1B-27EEB6BB79EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E121398-C807-4B42-9E1B-27EEB6BB79EC}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{9E121398-C807-4B42-9E1B-27EEB6BB79EC}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{9E121398-C807-4B42-9E1B-27EEB6BB79EC}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

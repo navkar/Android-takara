@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--   -->
+  <string name="TitleL1">Takara Categories</string>
+  <string name="TitleL2">Takaras</string>
+  <string name="TitleL3">Takara</string>
+
+  <!-- Add Category (AddTakaraCategory.axml)  -->
+  <string name="OKButton">Save</string>
+  <string name="CancelButton">Dont Save</string>
+  <string name="TVCatName">Category Name</string>
+  <string name="TVCatDesc">Category Description</string>
+  <string name="NewCat">New Category</string>
+  <string name="hint_catName">Specify a category name</string>
+  <string name="hint_catDesc">Specify a category description</string>
+
+  <!-- Alert Dialog  -->
+  <string name="DeleteAlert">Are you sure you want to Delete?</string>
+  <string name="DeleteAlertYES">Yes</string>
+  <string name="DeleteAlertNO">No</string>
+  
+  <!-- Title Bar Titles  -->
+  <string name="TitleBar1_0">Takara Categories</string>
+  <string name="TitleBar1_1">Takaras</string>
+  <string name="TitleBar1_2">Takara</string>
+  <string name="TitleBar2_0">Add Takara Category</string>
+  <string name="TitleBarSeparator">/</string>
+  
+  <!-- Takaras Context Menu (TakarasCtxMenu.axml)  -->
+  <string name="TakarasCtxMnuTitle">Takaras</string>
+  <string name="TakarasCtxMnuItem1">Add New...</string>
+  <string name="TakarasCtxMnuItem2">Delete</string>
+
+  <!-- Options Menu (OptionsMenu.axml)  -->
+  <string name="OptionsMenuItem1">Add New...</string>
+  <string name="OptionsMenuItem2">Delete</string>
+  
+  <!-- Takaras -->
+  <plurals name="NoOfTakarasAvailable">
+    <item quantity="zero">No Takaras found.</item>
+    <item quantity="one">1 Takara found.</item>
+    <item quantity="two">2 Takaras found.</item>
+    <item quantity="other">%d Takaras found.</item>
+  </plurals>
+  
+</resources>

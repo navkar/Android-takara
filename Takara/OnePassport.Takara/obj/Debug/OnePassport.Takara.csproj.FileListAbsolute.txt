@@ -1,0 +1,12 @@
+C:\AndroidProjects\Takara\OnePassport.Takara\obj\Debug\ResolveAssemblyReference.cache
+C:\AndroidProjects\Takara\OnePassport.Takara\bin\Debug\OnePassport.Takara.dll
+C:\AndroidProjects\Takara\OnePassport.Takara\bin\Debug\OnePassport.Takara.pdb
+C:\AndroidProjects\Takara\OnePassport.Takara\bin\Debug\OnePassport.Takara.dll.mdb
+C:\AndroidProjects\Takara\OnePassport.Takara\bin\Debug\OnePassport.Takara.apk
+C:\AndroidProjects\Takara\OnePassport.Takara\bin\Debug\OnePassport.Takara-Signed.apk
+C:\AndroidProjects\Takara\OnePassport.Takara\obj\Debug\OnePassport.Takara.dll
+C:\AndroidProjects\Takara\OnePassport.Takara\obj\Debug\OnePassport.Takara.pdb
+C:\AndroidProjects\Takara\OnePassport.Takara\obj\Debug\android\bin\OnePassport.Takara.apk
+C:\AndroidProjects\Takara\OnePassport.Takara\obj\Debug\R.cs.flag
+C:\AndroidProjects\Takara\OnePassport.Takara\obj\Debug\debug.keystore
+C:\AndroidProjects\Takara\OnePassport.Takara\obj\Debug\uploadflags.txt
